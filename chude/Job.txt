@@ -1,0 +1,10 @@
+doctor
+dentist
+reporter
+farmer
+policeman
+carpenter
+astronaut
+lawyer
+firefighter
+magician
